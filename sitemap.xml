@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://shellysun.herokuapp.com/index.html</loc>
-    <lastmod>2020-06-16</lastmod>
+    <lastmod>2020-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -13,14 +13,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://shellysun.herokuapp.com/cst-300-major-pro-seminar.html</loc>
-    <lastmod>2020-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://shellysun.herokuapp.com/cst-363-introduction-to-database-systems.html</loc>
-    <lastmod>2020-06-16</lastmod>
+    <lastmod>2020-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -28,59 +22,44 @@
     </image:image>
   </url>
   <url>
-    <loc>https://shellysun.herokuapp.com/cst-311-intro-to-computer-networks.html</loc>
-    <lastmod>2020-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://shellysun.herokuapp.com/images/tcphttppackets_orig.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://shellysun.herokuapp.com/cst-361s-technology-tutors.html</loc>
-    <lastmod>2020-06-16</lastmod>
+    <loc>https://shellysun.herokuapp.com/cst-205-multimedia-design-and-programming.html</loc>
+    <lastmod>2020-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://shellysun.herokuapp.com/major-requirements.html</loc>
-    <lastmod>2020-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://shellysun.herokuapp.com/capstone.html</loc>
-    <lastmod>2020-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://shellysun.herokuapp.com/cst-499-capstone.html</loc>
-    <lastmod>2020-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://shellysun.herokuapp.com/cst-205-multimedia-design-and-programming-copy-copy-copy-copy.html</loc>
-    <lastmod>2020-06-16</lastmod>
+    <loc>https://shellysun.herokuapp.com/cst-499-directed-group-capstone.html</loc>
+    <lastmod>2020-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://shellysun.herokuapp.com/cst-325-graphics-programming.html</loc>
-    <lastmod>2020-06-16</lastmod>
+    <lastmod>2020-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://shellysun.herokuapp.com/cst-205-multimedia-design-and-programming.html</loc>
-    <lastmod>2020-06-16</lastmod>
+    <loc>https://shellysun.herokuapp.com/major-requirements.html</loc>
+    <lastmod>2020-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://shellysun.herokuapp.com/capstone.html</loc>
+    <lastmod>2020-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://shellysun.herokuapp.com/cst-300-major-pro-seminar.html</loc>
+    <lastmod>2020-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://shellysun.herokuapp.com/cst-338-software-design.html</loc>
-    <lastmod>2020-06-16</lastmod>
+    <lastmod>2020-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -88,6 +67,27 @@
     </image:image>
     <image:image>
       <image:loc>https://shellysun.herokuapp.com/images/final388.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://shellysun.herokuapp.com/cst-336-internet-programming.html</loc>
+    <lastmod>2020-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://shellysun.herokuapp.com/cst-361s-technology-tutors.html</loc>
+    <lastmod>2020-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://shellysun.herokuapp.com/cst-311-intro-to-computer-networks.html</loc>
+    <lastmod>2020-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://shellysun.herokuapp.com/images/tcphttppackets_orig.jpg</image:loc>
     </image:image>
   </url>
   <url>
