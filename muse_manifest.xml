@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://shellysun.herokuapp.com" resolutions="1x" timestamp="1592388642193">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://shellysun.herokuapp.com" resolutions="1x" timestamp="1592389024075">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="capstone.css" crc="3927198216" ref="capstone"/>
@@ -39,36 +39,36 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="arrowmenudown.png" crc="262559161" ref="index:major-requirements:capstone:cst-300-major-pro-seminar:cst-363-introduction-to-database-systems:cst-205-multimedia-design-and-programming:cst-338-software-design:cst-361s-technology-tutors:cst-311-intro-to-computer-networks:cst-499-directed-group-capstone:cst-336-internet-programming:cst-325-graphics-programming">
-      <caption webpage="cst-499-directed-group-capstone" alt=""/>
-      <caption webpage="cst-499-directed-group-capstone" alt=""/>
-      <caption webpage="cst-338-software-design" alt=""/>
-      <caption webpage="cst-338-software-design" alt=""/>
-      <caption webpage="cst-363-introduction-to-database-systems" alt=""/>
-      <caption webpage="cst-363-introduction-to-database-systems" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="cst-325-graphics-programming" alt=""/>
-      <caption webpage="cst-325-graphics-programming" alt=""/>
-      <caption webpage="cst-300-major-pro-seminar" alt=""/>
-      <caption webpage="cst-300-major-pro-seminar" alt=""/>
-      <caption webpage="cst-361s-technology-tutors" alt=""/>
-      <caption webpage="cst-361s-technology-tutors" alt=""/>
-      <caption webpage="cst-336-internet-programming" alt=""/>
-      <caption webpage="cst-336-internet-programming" alt=""/>
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
       <caption webpage="cst-311-intro-to-computer-networks" alt=""/>
       <caption webpage="cst-311-intro-to-computer-networks" alt=""/>
+      <caption webpage="capstone" alt=""/>
+      <caption webpage="capstone" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="cst-336-internet-programming" alt=""/>
+      <caption webpage="cst-336-internet-programming" alt=""/>
+      <caption webpage="cst-338-software-design" alt=""/>
+      <caption webpage="cst-338-software-design" alt=""/>
       <caption webpage="cst-325-graphics-programming--copy" alt=""/>
       <caption webpage="cst-325-graphics-programming--copy" alt=""/>
       <caption webpage="major-requirements" alt=""/>
       <caption webpage="major-requirements" alt=""/>
-      <caption webpage="capstone" alt=""/>
-      <caption webpage="capstone" alt=""/>
-      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
-      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+      <caption webpage="cst-300-major-pro-seminar" alt=""/>
+      <caption webpage="cst-300-major-pro-seminar" alt=""/>
       <caption webpage="cst366" alt=""/>
       <caption webpage="cst366" alt=""/>
       <caption webpage="cst366" alt=""/>
       <caption webpage="cst366" alt=""/>
+      <caption webpage="cst-363-introduction-to-database-systems" alt=""/>
+      <caption webpage="cst-363-introduction-to-database-systems" alt=""/>
+      <caption webpage="cst-361s-technology-tutors" alt=""/>
+      <caption webpage="cst-361s-technology-tutors" alt=""/>
+      <caption webpage="cst-499-directed-group-capstone" alt=""/>
+      <caption webpage="cst-499-directed-group-capstone" alt=""/>
+      <caption webpage="cst-325-graphics-programming" alt=""/>
+      <caption webpage="cst-325-graphics-programming" alt=""/>
     </file>
     <file name="zimnogif_orig.gif" crc="60197292" seo="true" ref="cst-363-introduction-to-database-systems">
       <caption webpage="cst-363-introduction-to-database-systems" alt=""/>
@@ -93,7 +93,7 @@
   <file name="cst-338-software-design.html" crc="4257317077" seo="true" mt="1592388100346" redirect="true"/>
   <file name="cst-361s-technology-tutors.html" crc="261786065" seo="true" mt="1592388100375" redirect="true"/>
   <file name="cst-311-intro-to-computer-networks.html" crc="4273729359" seo="true" mt="1592388100300" redirect="true"/>
-  <file name="cst-499-directed-group-capstone.html" crc="489039987" seo="true" mt="1592388100352" redirect="true"/>
+  <file name="cst-499-directed-group-capstone.html" crc="4068231679" seo="true" mt="1592388996983" redirect="true"/>
   <file name="cst-336-internet-programming.html" crc="370660451" seo="true" mt="1592388472629" redirect="true"/>
   <file name="cst-325-graphics-programming.html" crc="3831446646" seo="true" mt="1592388100396" redirect="true"/>
 </manifest>
