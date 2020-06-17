@@ -1,0 +1,33 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://shellysun.herokuapp.com" resolutions="1x" timestamp="1592352749215">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="capstone.css" crc="3922018476" ref="capstone"/>
+    <file name="major-requirements.css" crc="233426877" ref="major-requirements"/>
+    <file name="index.css" crc="4256534114" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="sea-otter-1405970_1920.jpg" crc="4039513200" seo="true" mt="1592352693000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:major-requirements:capstone"/>
+    <file name="museutils.js" crc="3939489907" ref="index:major-requirements:capstone"/>
+    <file name="whatinput.js" crc="86476730" ref="index:major-requirements:capstone"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:major-requirements:capstone"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:major-requirements:capstone"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:major-requirements:capstone"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:major-requirements:capstone"/>
+    <file name="require.js" crc="4177726516" ref="index:major-requirements:capstone"/>
+  </folder>
+  <folder name="images">
+    <file name="sea-otter-1405970_1920.jpg" crc="4039513200" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u157-19.png" crc="3884888163" ref="index"/>
+    <file name="logocsumb.png" crc="4278321367" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4020619792" seo="true" mt="1592352383233" redirect="true"/>
+  <file name="major-requirements.html" crc="4289470954" seo="true" mt="1592352412370" redirect="true"/>
+  <file name="capstone.html" crc="95539585" seo="true" mt="1592352453901" redirect="true"/>
+</manifest>
