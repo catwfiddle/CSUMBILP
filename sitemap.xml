@@ -72,12 +72,6 @@
       <image:loc>https://shellysun.herokuapp.com/images/csumblogo_orig.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://shellysun.herokuapp.com/images/2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://shellysun.herokuapp.com/images/linedrwaing.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://shellysun.herokuapp.com/images/forbw273x364.jpg</image:loc>
     </image:image>
     <image:image>
@@ -88,6 +82,12 @@
     </image:image>
     <image:image>
       <image:loc>https://shellysun.herokuapp.com/images/csumbcampus_2_orig331x230.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shellysun.herokuapp.com/images/2234x312.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shellysun.herokuapp.com/images/linedrwaing228x304.jpg</image:loc>
     </image:image>
   </url>
   <url>
