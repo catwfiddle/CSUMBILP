@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://shellysun.herokuapp.com" resolutions="1x" timestamp="1592389024075">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://shellysun.herokuapp.com" resolutions="1x" timestamp="1592450133528">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="capstone.css" crc="3927198216" ref="capstone"/>
     <file name="major-requirements.css" crc="4118957762" ref="major-requirements"/>
-    <file name="index.css" crc="4058307680" ref="index"/>
+    <file name="index.css" crc="3947925362" ref="index"/>
     <file name="cst-363-introduction-to-database-systems.css" crc="4206418810" ref="cst-363-introduction-to-database-systems"/>
     <file name="cst-361s-technology-tutors.css" crc="385522077" ref="cst-361s-technology-tutors"/>
     <file name="cst-338-software-design.css" crc="23233479" ref="cst-338-software-design"/>
-    <file name="cst-205-multimedia-design-and-programming.css" crc="371849614" ref="cst-205-multimedia-design-and-programming"/>
+    <file name="cst-205-multimedia-design-and-programming.css" crc="3988969521" ref="cst-205-multimedia-design-and-programming"/>
     <file name="cst-300-major-pro-seminar.css" crc="3889911322" ref="cst-300-major-pro-seminar"/>
     <file name="cst-311-intro-to-computer-networks.css" crc="4237232549" ref="cst-311-intro-to-computer-networks"/>
     <file name="cst-336-internet-programming.css" crc="129809245" ref="cst-336-internet-programming"/>
@@ -39,34 +39,34 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="arrowmenudown.png" crc="262559161" ref="index:major-requirements:capstone:cst-300-major-pro-seminar:cst-363-introduction-to-database-systems:cst-205-multimedia-design-and-programming:cst-338-software-design:cst-361s-technology-tutors:cst-311-intro-to-computer-networks:cst-499-directed-group-capstone:cst-336-internet-programming:cst-325-graphics-programming">
-      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
-      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
-      <caption webpage="cst-311-intro-to-computer-networks" alt=""/>
-      <caption webpage="cst-311-intro-to-computer-networks" alt=""/>
-      <caption webpage="capstone" alt=""/>
-      <caption webpage="capstone" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="cst-336-internet-programming" alt=""/>
       <caption webpage="cst-336-internet-programming" alt=""/>
-      <caption webpage="cst-338-software-design" alt=""/>
-      <caption webpage="cst-338-software-design" alt=""/>
-      <caption webpage="cst-325-graphics-programming--copy" alt=""/>
-      <caption webpage="cst-325-graphics-programming--copy" alt=""/>
-      <caption webpage="major-requirements" alt=""/>
-      <caption webpage="major-requirements" alt=""/>
       <caption webpage="cst-300-major-pro-seminar" alt=""/>
       <caption webpage="cst-300-major-pro-seminar" alt=""/>
-      <caption webpage="cst366" alt=""/>
-      <caption webpage="cst366" alt=""/>
-      <caption webpage="cst366" alt=""/>
-      <caption webpage="cst366" alt=""/>
+      <caption webpage="cst-338-software-design" alt=""/>
+      <caption webpage="cst-338-software-design" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="cst-363-introduction-to-database-systems" alt=""/>
       <caption webpage="cst-363-introduction-to-database-systems" alt=""/>
+      <caption webpage="cst-311-intro-to-computer-networks" alt=""/>
+      <caption webpage="cst-311-intro-to-computer-networks" alt=""/>
+      <caption webpage="cst366" alt=""/>
+      <caption webpage="cst366" alt=""/>
+      <caption webpage="cst366" alt=""/>
+      <caption webpage="cst366" alt=""/>
       <caption webpage="cst-361s-technology-tutors" alt=""/>
       <caption webpage="cst-361s-technology-tutors" alt=""/>
+      <caption webpage="capstone" alt=""/>
+      <caption webpage="capstone" alt=""/>
       <caption webpage="cst-499-directed-group-capstone" alt=""/>
       <caption webpage="cst-499-directed-group-capstone" alt=""/>
+      <caption webpage="cst-325-graphics-programming--copy" alt=""/>
+      <caption webpage="cst-325-graphics-programming--copy" alt=""/>
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+      <caption webpage="major-requirements" alt=""/>
+      <caption webpage="major-requirements" alt=""/>
       <caption webpage="cst-325-graphics-programming" alt=""/>
       <caption webpage="cst-325-graphics-programming" alt=""/>
     </file>
@@ -83,13 +83,76 @@
       <caption webpage="cst-311-intro-to-computer-networks" alt=""/>
     </file>
     <file name="u212-4.png" crc="331780674" ref="index"/>
+    <file name="beautiful-blue-sky-body-of-water-1170572.jpg" crc="4294223282" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="rosecoloredglasses.jpg" crc="4268967334" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="makenegative.jpg" crc="263217356" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="aeroplane-aircraft-airplane-1856488.jpg" crc="3775621633" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="bw.jpg" crc="412779739" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="forbw.jpg" crc="4111589904" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="dog-cavalier-king-charles-spaniel-funny-pet-162123_1.jpg" crc="4086777040" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="dog-cavalier-king-charles-spaniel-funny-pet-162123.jpg" crc="162449869" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="bottomtotop.jpg" crc="4203061759" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="art1.jpg" crc="155567438" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="artify.jpg" crc="448533766" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="redeye_1.jpg" crc="161185195" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="preredeye_1.jpg" crc="117440085" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="stpcard.jpg" crc="3944468533" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="chromakey.jpg" crc="373121448" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="collage_1.jpg" crc="232259982" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="csumby_1.jpg" crc="287770784" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="csumblogo_orig.jpg" crc="86486283" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="csumbcampus_2_orig.jpg" crc="3993455964" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="2.jpg" crc="323552852" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
+    <file name="linedrwaing.jpg" crc="4085037964" seo="true" ref="cst-205-multimedia-design-and-programming">
+      <caption webpage="cst-205-multimedia-design-and-programming" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="509840574" seo="true" mt="1592388618198" redirect="true"/>
+  <file name="index.html" crc="3779865955" seo="true" mt="1592449570347" redirect="true"/>
   <file name="major-requirements.html" crc="463682173" seo="true" mt="1592388100330" redirect="true"/>
   <file name="capstone.html" crc="345576030" seo="true" mt="1592388100372" redirect="true"/>
   <file name="cst-300-major-pro-seminar.html" crc="413246981" seo="true" mt="1592388100314" redirect="true"/>
   <file name="cst-363-introduction-to-database-systems.html" crc="90630105" seo="true" mt="1592388100294" redirect="true"/>
-  <file name="cst-205-multimedia-design-and-programming.html" crc="209233710" seo="true" mt="1592388100306" redirect="true"/>
+  <file name="cst-205-multimedia-design-and-programming.html" crc="167846387" seo="true" mt="1592449413928" redirect="true"/>
   <file name="cst-338-software-design.html" crc="4257317077" seo="true" mt="1592388100346" redirect="true"/>
   <file name="cst-361s-technology-tutors.html" crc="261786065" seo="true" mt="1592388100375" redirect="true"/>
   <file name="cst-311-intro-to-computer-networks.html" crc="4273729359" seo="true" mt="1592388100300" redirect="true"/>
