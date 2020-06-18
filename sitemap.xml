@@ -23,7 +23,7 @@
   </url>
   <url>
     <loc>https://shellysun.herokuapp.com/cst-205-multimedia-design-and-programming.html</loc>
-    <lastmod>2020-06-17</lastmod>
+    <lastmod>2020-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -34,9 +34,6 @@
     </image:image>
     <image:image>
       <image:loc>https://shellysun.herokuapp.com/images/bottomtotop.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://shellysun.herokuapp.com/images/collage_1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://shellysun.herokuapp.com/images/csumby_1.png</image:loc>
@@ -88,6 +85,9 @@
     </image:image>
     <image:image>
       <image:loc>https://shellysun.herokuapp.com/images/2234x312.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shellysun.herokuapp.com/images/collage_1287x345.jpg</image:loc>
     </image:image>
   </url>
   <url>
