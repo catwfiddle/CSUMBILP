@@ -27,16 +27,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://shellysun.herokuapp.com/images/beautiful-blue-sky-body-of-water-1170572.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://shellysun.herokuapp.com/images/rosecoloredglasses.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://shellysun.herokuapp.com/images/makenegative.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://shellysun.herokuapp.com/images/aeroplane-aircraft-airplane-1856488.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://shellysun.herokuapp.com/images/bw.jpg</image:loc>
@@ -49,9 +43,6 @@
     </image:image>
     <image:image>
       <image:loc>https://shellysun.herokuapp.com/images/bottomtotop.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://shellysun.herokuapp.com/images/art1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://shellysun.herokuapp.com/images/artify.jpg</image:loc>
@@ -72,22 +63,31 @@
       <image:loc>https://shellysun.herokuapp.com/images/csumblogo_orig.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://shellysun.herokuapp.com/images/forbw273x364.jpg</image:loc>
+      <image:loc>https://shellysun.herokuapp.com/images/beautiful-blue-sky-body-of-water-1170572246x164.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://shellysun.herokuapp.com/images/stpcard293x410.jpg</image:loc>
+      <image:loc>https://shellysun.herokuapp.com/images/aeroplane-aircraft-airplane-1856488239x159.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://shellysun.herokuapp.com/images/csumby_1512x356.jpg</image:loc>
+      <image:loc>https://shellysun.herokuapp.com/images/forbw176x235.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://shellysun.herokuapp.com/images/csumbcampus_2_orig331x230.jpg</image:loc>
+      <image:loc>https://shellysun.herokuapp.com/images/art1265x176.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://shellysun.herokuapp.com/images/2234x312.jpg</image:loc>
+      <image:loc>https://shellysun.herokuapp.com/images/stpcard189x265.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://shellysun.herokuapp.com/images/linedrwaing228x304.jpg</image:loc>
+      <image:loc>https://shellysun.herokuapp.com/images/csumby_1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shellysun.herokuapp.com/images/csumbcampus_2_orig.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shellysun.herokuapp.com/images/2150x200.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shellysun.herokuapp.com/images/linedrwaing147x196.jpg</image:loc>
     </image:image>
   </url>
   <url>
