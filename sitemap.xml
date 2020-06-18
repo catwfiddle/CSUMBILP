@@ -42,9 +42,6 @@
       <image:loc>https://shellysun.herokuapp.com/images/bw.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://shellysun.herokuapp.com/images/forbw.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://shellysun.herokuapp.com/images/dog-cavalier-king-charles-spaniel-funny-pet-162123_1.jpg</image:loc>
     </image:image>
     <image:image>
@@ -66,28 +63,31 @@
       <image:loc>https://shellysun.herokuapp.com/images/preredeye_1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://shellysun.herokuapp.com/images/stpcard.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://shellysun.herokuapp.com/images/chromakey.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://shellysun.herokuapp.com/images/collage_1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://shellysun.herokuapp.com/images/csumby_1.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://shellysun.herokuapp.com/images/csumblogo_orig.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://shellysun.herokuapp.com/images/csumbcampus_2_orig.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://shellysun.herokuapp.com/images/2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://shellysun.herokuapp.com/images/linedrwaing.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shellysun.herokuapp.com/images/forbw273x364.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shellysun.herokuapp.com/images/stpcard293x410.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shellysun.herokuapp.com/images/csumby_1512x356.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shellysun.herokuapp.com/images/csumbcampus_2_orig331x230.jpg</image:loc>
     </image:image>
   </url>
   <url>
